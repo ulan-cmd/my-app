@@ -1,0 +1,31 @@
+.btn-more{
+    background-color:darkblue;
+    color:#fff;
+    padding:10px 20px;
+    width:100%;
+    text-align:center;
+    border:0
+}
+
+.menu{
+    background-color: darkcyan;
+    padding: 10px;
+}
+
+.menu ul{
+   list-style: none;
+}
+
+.menu ul li{
+    display: inline;
+}
+
+.menu a{
+    text-decoration: none;
+    font-size: 22px;
+    margin-right: 20px;
+}
+
+.text-center{
+    text-align: center;
+}
