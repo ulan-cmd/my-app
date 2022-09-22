@@ -1,19 +1,23 @@
 import React from "react";
-import Title from "./Title";
+import {NavLink} from 'react-router-dom';
 
 const Header = () => {
+
+    const setActive = (active) => active.isActive ? 'active' : '';
+
+
     return (
         <header className="w3-container w3-center w3-padding-32 menu">
             <nav>
                 <ul>
                     <li>
-                        <a href="/">Главная</a>
+                        <NavLink to="catalog" className={setActive}>Каталог</NavLink>
                     </li>
                     <li>
-                        <a href="/about">О нас</a>
+                        <NavLink to="/about" className={setActive}>О нас</NavLink>
                     </li>
                     <li>
-                        <a href="/form">Обратная связь</a>
+                        <NavLink to="/form" className={setActive}>Обратная связь</NavLink>
                     </li>
                 </ul>
             </nav>
