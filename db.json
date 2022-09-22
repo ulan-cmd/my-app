@@ -1,0 +1,141 @@
+{
+ "iphone": [
+   {
+     "id": 1,
+     "img": "https://www.istore.kg/media/products/iphone-13-pro-max-green-select.webp",
+     "name": "iPhone 13 Pro Max",
+     "price_som": "от 105 000 сом",
+     "price_dollar": "от $1250,0"
+   },
+   {
+     "id": 2,
+     "img": "https://www.istore.kg/media/products/iphone-13-pro-blue-select.webp",
+     "name": "iPhone 13 Pro",
+     "price_som": "от 96 600 сом",
+     "price_dollar": "от $1150,0"
+   },
+   {
+     "id": 3,
+     "img": "https://www.istore.kg/media/products/iphone-13-blue-select-2021_QT6ur4J.webp",
+     "name": "iPhone 13",
+     "price_som": "от 73 920 сом",
+     "price_dollar": "от $880,0"
+   },
+   {
+     "id": 4,
+     "img": "https://www.istore.kg/media/products/iphone-13-mini-starlight-select-2021_O3CZt5Q.webp",
+     "name": "iPhone 13 mini",
+     "price_som": "от 66 360 сом",
+     "price_dollar": "от $790,0"
+   },
+   {
+     "id": 5,
+     "img": "https://www.istore.kg/media/products/12-Black.webp",
+     "name": "iPhone 12",
+     "price_som": "от 54 600 сом",
+     "price_dollar": "от $650,0"
+   },
+   {
+     "id": 6,
+     "img": "https://www.istore.kg/media/products/11-black_qdkqJZQ.webp",
+     "name": "iPhone 11",
+     "price_som": "от 48 720 сом",
+     "price_dollar": "от $580,0"
+   },
+   {
+     "id": 7,
+     "img": "https://www.istore.kg/media/products/iphone-se-midnight.webp",
+     "name": "iPhone SE",
+     "price_som": "от 36 120 сом",
+     "price_dollar": "от $430,0"
+   }
+ ],
+  "watch": [
+    {
+      "id": 1,
+      "img": "https://www.istore.kg/media/products/stainless-graphite-41.webp",
+      "name": "Watch Series 7 with Stainless Steel Case",
+      "price_som": "от 67 116 сом",
+      "price_dollar": "от $799,0"
+    },
+    {
+      "id": 2,
+      "img": "https://www.istore.kg/media/products/7-41-Nike-Starlight-GPS.webp",
+      "name": "Watch Series 7 Nike with Aluminum Case",
+      "price_som": "от 36 120 сом",
+      "price_dollar": "от $430,0"
+    },
+    {
+      "id": 3,
+      "img": "https://www.istore.kg/media/products/7-41-Green-GPS.webp",
+      "name": "Watch Series 7 with Aluminum Case",
+      "price_som": "от 35 280 сом",
+      "price_dollar": "от $420,0"
+    },
+    {
+      "id": 4,
+      "img": "https://www.istore.kg/media/products/SE-Nike-40-GPS-Anthracite-Black.webp",
+      "name": "Watch Series 6 Nike with Aluminum Case",
+      "price_som": "от 35 280 сом",
+      "price_dollar": "от $420,0"
+    },
+    {
+      "id": 5,
+      "img": "https://www.istore.kg/media/products/SE-Nike-40-GPS-Pure-Platinum-Black_51dX1Ob.webp",
+      "name": "Watch SE Nike with Aluminum Case",
+      "price_som": "от 26 040 сом",
+      "price_dollar": "от $310,0"
+    },
+    {
+      "id": 6,
+      "img": "https://www.istore.kg/media/products/MKU83_VW_34FRwatch-40-alum-spacegray-nc-se_VW_34FR_WF_CO.webp",
+      "name": "Watch SE with Aluminum Case",
+      "price_som": "от 26 040 сом",
+      "price_dollar": "от $310,0"
+    }
+  ],
+  "ipad": [
+    {
+      "id": 1,
+      "img": "https://www.istore.kg/media/products/iPad-Pro-12-9-WiFi-Silver_TwRGhKz.webp",
+      "name": "iPad Pro 12.9 (2021)",
+      "price_som": "от 98 280 сом",
+      "price_dollar": "от $1170,0"
+    },
+    {
+      "id": 2,
+      "img": "https://www.istore.kg/media/products/iPad-Pro-11-WiFi-Space-Gray.webp",
+      "name": "iPad Pro 11 (2021)",
+      "price_som": "от 75 600 сом",
+      "price_dollar": "от $900,0"
+    },
+    {
+      "id": 3,
+      "img": "https://www.istore.kg/media/products/ipad-air-select-wifi-spacegray-202203.webp",
+      "name": "iPad Air 10.9 (2022)",
+      "price_som": "от 56 280 сом",
+      "price_dollar": "от $670,0"
+    },
+    {
+      "id": 4,
+      "img": "https://www.istore.kg/media/products/iPad-mini-WiFi-Purple.webp",
+      "name": "iPad mini 8.3 (2021)",
+      "price_som": "от 46 200 сом",
+      "price_dollar": "от $550,0"
+    },
+    {
+      "id": 5,
+      "img": "https://www.istore.kg/media/products/iPad-9-WiFi-Silver.webp",
+      "name": "iPad 10.2 (2021)",
+      "price_som": "от 32 760 сом",
+      "price_dollar": "от $390,0"
+    },
+    {
+      "id": 6,
+      "img": "https://www.istore.kg/media/products/iPad-8-Cellular-Gold.webp",
+      "name": "iPad 10.2 (2020)",
+      "price_som": "от 31 920 сом",
+      "price_dollar": "от $380,0"
+    }
+    ]
+}
